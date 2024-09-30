@@ -35,8 +35,8 @@ Traveler Type (Business, Family, Solo, etc.)
 
 Seat Type (Economy, Business, First, Premium)
 
-Link to Tableu Dashboard: https://public.tableau.com/views/BritishAirwaysReview_17270863676910/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
 Date Range, Aircraft Model, Continent
 
 This dashboard helps visualize customer satisfaction across different dimensions and travel preferences.
+
+Link to Tableu Dashboard: https://public.tableau.com/views/BritishAirwaysReview_17270863676910/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
